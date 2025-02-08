@@ -1,5 +1,5 @@
 # Welcome to My Data Analytics Projects Portfolio!
-![Image](https://github.com/user-attachments/assets/ff1e3c03-348d-4ea8-955c-051e78821cc7)
+![Image](https://github.com/user-attachments/assets/62d2c2f4-d431-49aa-b8b4-a71c893e6763)
 
 This repository showcases my journey in Data Analytics, featuring projects that demonstrate my ability to collect, clean, analyze, and visualize data to extract meaningful insights. Each project is built using industry-standard tools and techniques to solve real-world data problems.
 This repository showcases my journey in Data Analytics, featuring projects that demonstrate my ability to collect, clean, analyze, and visualize data to extract meaningful insights. Each project is built using industry-standard tools and techniques to solve real-world data problems.<br>
