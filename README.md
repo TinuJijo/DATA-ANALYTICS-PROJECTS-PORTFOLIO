@@ -9,7 +9,7 @@ This repository showcases my journey in Data Analytics, featuring projects that 
 - Feature engineering for improved model performance
 - Predictive modeling and trend analysis
 
-🔹 Skills: Data wrangling, hypothesis testing, statistical analysis, feature engineering, machine learning fundamentals
+🔹 Skills: Data wrangling, hypothesis testing, statistical analysis, feature engineering, machine learning fundamentals<br>
 🔹 Tools: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), SQL, Excel, Power BI, Tableau
 
 Feel free to explore, contribute, or share feedback! 🚀
