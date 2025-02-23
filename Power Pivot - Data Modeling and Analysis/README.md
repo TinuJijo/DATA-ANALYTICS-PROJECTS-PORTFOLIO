@@ -2,3 +2,4 @@
 
 
 This Excel project demonstrates data modeling and analysis using Power Pivot and Power Query. Three datasets (orders, products, and customers) were connected and analyzed to gain insights into sales and returning customers. Power Query was used for minimal data cleaning, while Power Pivot facilitated data modeling through relationships and calculated columns. Analysis included creating a profit heatmap by coffee and roast type, visualizing profit trends with a line chart, and identifying returning customers with the highest order counts and profit per order. The project highlights the ability to efficiently model and analyze data from multiple sources within Excel, showcasing skills in data cleaning, modeling, DAX calculations, and visualization.
+https://github.com/user-attachments/assets/a6e18d14-3cf1-4355-b8c5-db18222160fa
