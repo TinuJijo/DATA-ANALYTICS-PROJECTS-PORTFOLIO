@@ -21,6 +21,6 @@ District of Columbia(Washington, D.C.)has a max salary of $169,080.
 **How does company size influence salary levels?**
 
 Impact of Company Size on Salary:
-Mid-sized companies(51 to 200 employees) offer the highest salaries(~$152,086 max).
-Very large companies(10,000+ employees)tend to offer lower max salaries(~$147,628).
+Mid-sized companies(51 to 200 employees) offer the highest salaries($152,086 max).
+Very large companies(10,000+ employees)tend to offer lower max salaries($147,628).
 Smaller companies(1 to 50 employees)also offer high salaries for some roles.
