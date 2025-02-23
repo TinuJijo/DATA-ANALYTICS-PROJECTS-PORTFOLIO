@@ -45,7 +45,7 @@ Format Values: Formatted the values in the pivot table as currency.
 1. Profit SheetThe data appears to be profit values per supplier and brand across different years (2018-2023).
 Some profit values are negative, indicating potential losses in certain years.Example:Forge Fitness (Iron Strength Equipment Co.) had a loss in 2019 (-0.0317) but a profit in 2020 (0.0508).Ironclad Athletics had fluctuating values, with losses in 2019, 2020, and 2022, but gains in 2021 and 2023.
 
-2.Line Chart Sheet
+2. Line Chart Sheet
 This sheet likely supports a visual representation of profit trends.
 It contains profit values per brand over the years (2018-2019 shown).
 The brands included:Apex Athletics, Elevate Fitness, Spartan Sports, Steel Power, Summit Strength, and Titan Training.
