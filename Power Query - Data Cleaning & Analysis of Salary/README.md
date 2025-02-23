@@ -1,4 +1,4 @@
-# Power Query - Salary
+# Power Query - Data Cleaning & Analysis of Salary
 
 In today's data-driven world, extracting meaningful insights from raw data is crucial for informed decision-making. This project focuses on a practical data cleaning workflow using Power Query within Microsoft Excel, specifically designed to analyze a dataset of data science job postings. The primary goal was to answer key business questions related to salary trends. This project walks through the essential steps of data cleaning, from handling inconsistencies and missing values to standardizing data formats and merging datasets. The result is a clear and actionable analysis of salary trends, demonstrating the power of effective data cleaning in uncovering valuable business insights.
 
