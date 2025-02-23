@@ -5,22 +5,22 @@ In today's data-driven world, extracting meaningful insights from raw data is cr
 **Which job roles offer the highest compensation?**
 
 Highest Compensation Job Roles:
-Data Scientist has the highest average maximum salary ($149,947). 
-Other roles (not classified) follow closely ($147,283).
-Data Analyst and Machine Learning Engineer have slightly lower max salaries(~$142,043 and ~$133,950, respectively)
+ - Data Scientist has the highest average maximum salary ($149,947). 
+ - Other roles (not classified) follow closely ($147,283).
+ - Data Analyst and Machine Learning Engineer have slightly lower max salaries(~$142,043 and ~$133,950, respectively)
 
 **Where are these roles best compensated geographically?**
 
 Insights on Geographic Compensation:
 Top-Paying Locations:
-Delaware has the highest salaries, with an average max salary of $331,000.
-North Carolina follows with $179,000.
-Iowa and Wisconsin offer max salaries of around $173,000.
-District of Columbia(Washington, D.C.)has a max salary of $169,080.
+ - Delaware has the highest salaries, with an average max salary of $331,000.
+ - North Carolina follows with $179,000.
+ - Iowa and Wisconsin offer max salaries of around $173,000.
+ - District of Columbia(Washington, D.C.)has a max salary of $169,080.
 
 **How does company size influence salary levels?**
 
 Impact of Company Size on Salary:
-Mid-sized companies(51 to 200 employees) offer the highest salaries($152,086 max).
-Very large companies(10,000+ employees)tend to offer lower max salaries($147,628).
-Smaller companies(1 to 50 employees)also offer high salaries for some roles.
+ - Mid-sized companies(51 to 200 employees) offer the highest salaries($152,086 max).
+ - Very large companies(10,000+ employees)tend to offer lower max salaries($147,628).
+ - Smaller companies(1 to 50 employees)also offer high salaries for some roles.
