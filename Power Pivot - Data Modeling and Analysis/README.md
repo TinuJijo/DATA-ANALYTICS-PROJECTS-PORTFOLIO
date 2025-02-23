@@ -9,8 +9,9 @@ https://github.com/user-attachments/assets/a6e18d14-3cf1-4355-b8c5-db18222160fa
 **1. Data Acquisition and Preparation (Power Query):**
  - Imported data from three CSV files: orders, customers, and products.
  - Used Power Query to connect to these files and load the data.
- - Performed minimal data cleaning within Power Query (no significant transformations were mentioned).
+ - Performed minimal data cleaning within Power Query 
  - Loaded the data into the Power Pivot data model, creating connections only at this stage.
+
 **2. Data Modeling (Power Pivot):**
  - Opened the Power Pivot window and created a data model.
  - Established relationships between the tables:
