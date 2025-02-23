@@ -5,7 +5,7 @@ In today's data-driven world, extracting meaningful insights from raw data is cr
 **Which job roles offer the highest compensation?**
 
 Highest Compensation Job Roles:
-Data Scientist has the highest average maximum salary(~$149,947)
+Data Scientist has the highest average maximum salary (~$149,947).
 Other roles (not classified) follow closely(~$147,283).
 Data Analyst and Machine Learning Engineer have slightly lower max salaries(~$142,043 and ~$133,950, respectively)
 
